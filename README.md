@@ -1,23 +1,25 @@
 # Hi, I'm Keiner Arias 👋
-### Fullstack Software Engineer | .NET & React Specialist
+### Fullstack Software Engineer | .NET, Angular & React Specialist
 
-Driven by building scalable systems and modern web experiences. Specializing in **C#/.NET** for robust backends and **React/TypeScript** for intuitive front-ends.
+Passionate about building scalable systems and modern web experiences. Specializing in **C#/.NET** for robust backends and crafting intuitive front-ends with **Angular** and **React**. Expert in integrating AI capabilities using the **Model Context Protocol (MCP)**.
 
-- 🔭 **Current Focus:** AI-Agent integrations (MCP) and Cloud-native architectures.
-- 🏗️ **Core Stack:** ASP.NET Core, Entity Framework, SQL Server, React, Tailwind CSS.
-- 💼 **Experience:** Developing management systems (ERP/CRM) and high-performance APIs.
+- 🔭 **Current Focus:** Developing intelligent systems with **MCP (Model Context Protocol)** and modern Frontend architectures (Angular 19+).
+- 🏗️ **Core Stack:** ASP.NET Core, Entity Framework, SQL Server, Angular, React, TypeScript.
+- 💼 **Experience:** Developing management systems (ERP/CRM), high-performance APIs, and AI-enhanced applications.
 
 ## 🛠️ Technology Stack
 
-| Backend | Frontend | Database & Tools |
+| Backend & AI | Frontend | Database & DevOps |
 | :--- | :--- | :--- |
-| C#, .NET 8, ASP.NET Core | React, TypeScript, Vite | SQL Server, PostgreSQL |
-| Entity Framework, Dapper | Tailwind CSS, Redux | Git, Docker, MCP |
+| C#, .NET 9, ASP.NET Core | **Angular 19+**, React | SQL Server, PostgreSQL |
+| **MCP (Model Context Protocol)** | **TypeScript**, Tailwind CSS | Git, Docker, CI/CD |
+| Entity Framework, Dapper | Redux, RxJS, NgRx | Azure, GitHub Actions |
 
 ## 🌟 Highlighted Projects
-1. **[FisioTrack Web App](https://github.com/Keiner-2006/FisioTrack)**: Comprehensive Physiotherapy Clinic Management System.
-2. **[Hardware Store MCP Server](https://github.com/Keiner-2006/hardware-store-mcp-server)**: Standardized protocol server for AI inventory management.
-3. **[FisioTrack API](https://github.com/Keiner-2006/Backend_FisioTrack)**: Robust backend for clinical records and scheduling.
+1. **[ProyectoFerreteria-Angular](https://github.com/Keiner-2006/ProyectoFerreteria-Angular)**: Modern hardware store management frontend built with Angular 19, connected to a .NET backend and ready for MCP AI integration.
+2. **[Hardware Store Backend](https://github.com/Keiner-2006/ProyectoFerreteria)**: Robust .NET 9 backend with Hexagonal Architecture and CQRS.
+3. **[FisioTrack Web App](https://github.com/Keiner-2006/FisioTrack)**: Comprehensive Physiotherapy Clinic Management System.
+4. **[Hardware Store MCP Server](https://github.com/Keiner-2006/hardware-store-mcp-server)**: Standardized protocol server for AI inventory management.
 
 ---
 [LinkedIn](https://www.linkedin.com/in/tu-usuario) | [Portfolio](https://tu-portfolio.com) | [Email](mailto:tu-email@gmail.com)
